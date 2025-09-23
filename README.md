@@ -2,33 +2,32 @@
 
 **`Desenvolvedor Full-Stack`**
 
-Me chamo Leonardo Rodrigues Boni, sou de Araçatuba-SP e atualmente curso **Análise e Desenvolvimento de Sistemas no Unisalsesiano de Araçatuba**.  
-Tenho experiência prática como **Desenvolvedor Full-Stack na DT Network**, além de já ter atuado em projetos de **Front-End** e automação de testes com **Selenium WebDriver**.  
+Me chamo Leonardo Rodrigues Boni, sou de Araçatuba-SP e estou cursando **Análise e Desenvolvimento de Sistemas**.  
+Tenho experiência como **Desenvolvedor Full-Stack** na DT Network, já trabalhei com **Front-End** e automação de testes com **Selenium WebDriver**, entre outras tecnologias.
 
-Sou apaixonado por tecnologia e constantemente busco evoluir minhas habilidades em **desenvolvimento web, automação e soluções em nuvem**.  
-Aqui no meu GitHub, compartilho projetos, estudos e aprendizados na área de desenvolvimento de software.  
+Sou apaixonado por tecnologia e busco compartilhar meus projetos, estudos e aprendizados em desenvolvimento de software por meio deste espaço no GitHub.  
 
 ---
 
 <p align="left">
-    <a href="https://github.com/LeonardoBoni?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers//LeonardoBoni-018?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    <a href="https://github.com/LeonardoBoni-018?tab=followers">
+        <img
+            alt="Seguidores"
+            title="Me siga no GitHub"
+            src="https://custom-icon-badges.demolab.com/github/followers/LeonardoBoni-018?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://github.com/LeonardoBoni?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars//LeonardoBoni-018?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+    <a href="https://github.com/LeonardoBoni-018?tab=repositories&sort=stargazers">
+        <img
+            alt="Total de estrelas"
+            title="Total de estrelas GitHub"
+            src="https://custom-icon-badges.demolab.com/github/stars/LeonardoBoni-018?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://www.linkedin.com/in/leonardo-rodrigues-boni-3751432b7/">
-        <img 
-            alt="LinkedIn" 
-            title="Conecte-se comigo no LinkedIn" 
+        <img
+            alt="LinkedIn"
+            title="Conecte-se comigo no LinkedIn"
             src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
@@ -57,18 +56,18 @@ Aqui no meu GitHub, compartilho projetos, estudos e aprendizados na área de des
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LeonardoBoni&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=LeonardoBoni-018&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 
-  <img 
-    align="left" 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBoni&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img
+    align="left"
+    alt="Top Langs"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBoni-018&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </p>

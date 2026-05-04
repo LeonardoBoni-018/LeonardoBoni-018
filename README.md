@@ -1,73 +1,140 @@
 # 👨🏻‍💻 Leonardo Rodrigues Boni
 
-**`Desenvolvedor Full-Stack`**
+<p align="left">
+  <a href="https://github.com/LeonardoBoni-018">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=3B82F6&width=700&lines=Desenvolvedor+Full+Stack;React+%7C+Node.js+%7C+TypeScript+%7C+Java;Automações+%7C+APIs+%7C+Cloud+%7C+IA" 
+      alt="Typing SVG" 
+    />
+  </a>
+</p>
 
-Me chamo Leonardo Rodrigues Boni, sou de Araçatuba-SP e estou cursando **Análise e Desenvolvimento de Sistemas**.  
-Tenho experiência como **Desenvolvedor Full-Stack** na DT Network, já trabalhei com **Front-End** e automação de testes com **Selenium WebDriver**, entre outras tecnologias.
+**`Desenvolvedor Full Stack | React • Node.js • TypeScript • Java • Go`**
 
-Sou apaixonado por tecnologia e busco compartilhar meus projetos, estudos e aprendizados em desenvolvimento de software por meio deste espaço no GitHub.  
+Me chamo Leonardo Rodrigues Boni, sou de Araçatuba-SP e atualmente curso **Análise e Desenvolvimento de Sistemas**.
+
+Atuo como **Desenvolvedor Full Stack** na **DT Network**, trabalhando no desenvolvimento e manutenção de aplicações web, integrações de APIs, automações de processos e soluções focadas em performance, escalabilidade e experiência do usuário.
+
+Tenho experiência com **React, TypeScript, Node.js, Java Spring Framework, PostgreSQL, Go (Golang), Selenium WebDriver, Docker e n8n**, além de atuar com desenvolvimento de APIs REST, workflows automatizados, integrações com WhatsApp, manutenção de sistemas e soluções voltadas para automação e inteligência artificial.
+
+Sou apaixonado por tecnologia, arquitetura de software, automações e IA, e utilizo este espaço para compartilhar projetos, estudos e aprendizados da minha jornada como desenvolvedor.
 
 ---
 
+## 🌐 Contato
+
 <p align="left">
-    <a href="https://github.com/LeonardoBoni-018?tab=followers">
-        <img
-            alt="Seguidores"
-            title="Me siga no GitHub"
-            src="https://custom-icon-badges.demolab.com/github/followers/LeonardoBoni-018?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/LeonardoBoni-018?tab=repositories&sort=stargazers">
-        <img
-            alt="Total de estrelas"
-            title="Total de estrelas GitHub"
-            src="https://custom-icon-badges.demolab.com/github/stars/LeonardoBoni-018?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/leonardo-rodrigues-boni-3751432b7/">
-        <img
-            alt="LinkedIn"
-            title="Conecte-se comigo no LinkedIn"
-            src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
+  <a href="https://github.com/LeonardoBoni-018">
+    <img 
+      alt="GitHub followers" 
+      title="Me siga no GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/followers/LeonardoBoni-018?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    />
+  </a>
+
+  <a href="https://github.com/LeonardoBoni-018?tab=repositories&sort=stargazers">
+    <img 
+      alt="Total de estrelas" 
+      title="Total de estrelas no GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/stars/LeonardoBoni-018?color=55960c&labelColor=488207&style=for-the-badge&logo=star&label=Estrelas"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/leonardo-rodrigues-boni-3751432b7/">
+    <img 
+      alt="LinkedIn" 
+      title="Meu LinkedIn" 
+      src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+
+  <a href="mailto:boni.leonardor@outlook.com">
+    <img 
+      alt="Email" 
+      title="Enviar email" 
+      src="https://img.shields.io/badge/Email-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
+    />
+  </a>
 </p>
 
 ---
 
-### 🚀 Linguagens e Tecnologias
+## 🚀 Tecnologias e Ferramentas
 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="React" title="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left" alt="NodeJS" title="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="Azure" title="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
-<img align="left" alt="Selenium" title="Selenium" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
+### 💻 Front-End
 
-<br/>
-<br/>
+<p align="left">
+  <img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img alt="CSS" title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img alt="TypeScript" title="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img alt="React" title="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+</p>
+
+### ⚙️ Back-End
+
+<p align="left">
+  <img alt="NodeJS" title="NodeJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img alt="Java" title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img alt="Spring" title="Spring Framework" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+  <img alt="Go" title="Golang" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
+</p>
+
+### 🗄️ Banco de Dados
+
+<p align="left">
+  <img alt="PostgreSQL" title="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img alt="MySQL" title="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+</p>
+
+### ☁️ DevOps & Ferramentas
+
+<p align="left">
+  <img alt="Docker" title="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img alt="GitHub" title="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img alt="Azure" title="Azure" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
+</p>
+
+### 🤖 Automação & QA
+
+<p align="left">
+  <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img alt="Selenium" title="Selenium" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
+</p>
 
 ---
 
-### 📊 Estatísticas
+## 📊 Estatísticas GitHub
 
-<p>
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
+<p align="left">
+  <img 
+    height="180em" 
     src="https://github-readme-stats.vercel.app/api?username=LeonardoBoni-018&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 
-  <img
-    align="left"
-    alt="Top Langs"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBoni-018&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
+<img 
+ height="180em" 
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBoni-018&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10"
+/>
+
 </p>
+
+---
+
+## 📌 Atualmente focado em
+
+* Desenvolvimento Full Stack
+* APIs REST e Microsserviços
+* Java + Spring Framework
+* React & TypeScript
+* Automações com n8n
+* Arquitetura de Software
+* Inteligência Artificial
+* Cloud & DevOps
+
+---
+
+## 🚀 Objetivo
+
+Busco evoluir constantemente como desenvolvedor, participando da construção de sistemas modernos, escaláveis e que gerem impacto real para usuários e empresas.

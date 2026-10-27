@@ -3,21 +3,35 @@
 <p align="left">
   <a href="https://github.com/LeonardoBoni-018">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=3B82F6&width=700&lines=Desenvolvedor+Full+Stack;React+%7C+Node.js+%7C+TypeScript+%7C+Java;Automações+%7C+APIs+%7C+Cloud+%7C+IA" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=3B82F6&width=700&lines=Desenvolvedor+Full+Stack;Java+%7C+Spring+Boot+%7C+React+%7C+TypeScript+%7C+Go;APIs+REST+%7C+Automa%C3%A7%C3%B5es+%7C+Cloud+%7C+IA" 
       alt="Typing SVG" 
     />
   </a>
 </p>
 
-**`Desenvolvedor Full Stack | React • Node.js • TypeScript • Java • Go`**
+**`Desenvolvedor Full Stack | Java • Spring Boot • React • TypeScript • Go`**
 
 Me chamo Leonardo Rodrigues Boni, sou de Araçatuba-SP e atualmente curso **Análise e Desenvolvimento de Sistemas**.
 
-Atuo como **Desenvolvedor Full Stack** na **DT Network**, trabalhando no desenvolvimento e manutenção de aplicações web, integrações de APIs, automações de processos e soluções focadas em performance, escalabilidade e experiência do usuário.
+Atuo como **Desenvolvedor Full Stack** na **Soft-Line Sistemas**, trabalhando no desenvolvimento e manutenção de aplicações web, integrações de APIs, automações de processos e soluções focadas em performance, escalabilidade e experiência do usuário.
 
-Tenho experiência com **React, TypeScript, Node.js, Java Spring Framework, PostgreSQL, Go (Golang), Selenium WebDriver, Docker e n8n**, além de atuar com desenvolvimento de APIs REST, workflows automatizados, integrações com WhatsApp, manutenção de sistemas e soluções voltadas para automação e inteligência artificial.
+Tenho experiência com **Java e Spring Boot, React, TypeScript, Node.js, Go (Golang), C#, PostgreSQL, MySQL, Docker, Selenium WebDriver e n8n**, além de atuar com desenvolvimento de APIs REST, workflows automatizados, integrações com WhatsApp, manutenção de sistemas e soluções voltadas para automação e inteligência artificial.
 
 Sou apaixonado por tecnologia, arquitetura de software, automações e IA, e utilizo este espaço para compartilhar projetos, estudos e aprendizados da minha jornada como desenvolvedor.
+
+---
+
+## 🌟 Projetos em destaque
+
+| Projeto | Stack | Links |
+|---|---|---|
+| **Frames by Gi** — site de portfólio de fotografia e vídeo | React, TypeScript, Vite, Tailwind | [Online](https://framesbygi.vercel.app) · [Código](https://github.com/LeonardoBoni-018/SIte-Giovana) |
+| **Cardápio Bar do Marcelo** — cardápio digital | React, TypeScript, Spring | [Online](https://card-pio-bar-do-marcelo-frontend.vercel.app) · [Código](https://github.com/LeonardoBoni-018/Card-pio-Bar-do-Marcelo) |
+| **Psyke** — aplicação com API e front-end | Java, Spring, TypeScript | [Online](https://psyke-front.vercel.app) · [API](https://github.com/LeonardoBoni-018/Psyke) · [Front](https://github.com/LeonardoBoni-018/Psyke-Front) |
+| **byFood** — API e site | Java, TypeScript | [Online](https://byfood-alpha.vercel.app) · [API](https://github.com/LeonardoBoni-018/byFood-API) · [Site](https://github.com/LeonardoBoni-018/ByFood-Site) |
+| **Sistema de agendamento** — back-end e front-end | Java, Spring Boot, TypeScript | [Online](https://sistema-agendamento-front-end.vercel.app) · [API](https://github.com/LeonardoBoni-018/sistema-agendamento-spring-boot) · [Front](https://github.com/LeonardoBoni-018/sistema-agendamento-front-end) |
+| **Sistema de cadastro de academia** — API REST | Java, Spring Boot, MySQL, JWT | [Código](https://github.com/LeonardoBoni-018/Sistema-de-cadastro-academia-Java-Spring) |
+| **Portfólio** | TypeScript | [Online](https://about-me-eta-ruby.vercel.app) · [Código](https://github.com/LeonardoBoni-018/about-me) |
 
 ---
 
@@ -29,14 +43,6 @@ Sou apaixonado por tecnologia, arquitetura de software, automações e IA, e uti
       alt="GitHub followers" 
       title="Me siga no GitHub" 
       src="https://custom-icon-badges.demolab.com/github/followers/LeonardoBoni-018?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-    />
-  </a>
-
-  <a href="https://github.com/LeonardoBoni-018?tab=repositories&sort=stargazers">
-    <img 
-      alt="Total de estrelas" 
-      title="Total de estrelas no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/stars/LeonardoBoni-018?color=55960c&labelColor=488207&style=for-the-badge&logo=star&label=Estrelas"
     />
   </a>
 
@@ -74,10 +80,11 @@ Sou apaixonado por tecnologia, arquitetura de software, automações e IA, e uti
 ### ⚙️ Back-End
 
 <p align="left">
-  <img alt="NodeJS" title="NodeJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img alt="Java" title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img alt="Spring" title="Spring Framework" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+  <img alt="Spring" title="Spring Boot" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
   <img alt="Go" title="Golang" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
+  <img alt="NodeJS" title="NodeJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img alt="C#" title="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 </p>
 
 ### 🗄️ Banco de Dados
@@ -107,9 +114,8 @@ Sou apaixonado por tecnologia, arquitetura de software, automações e IA, e uti
 
 ## 📌 Atualmente focado em
 
-* Desenvolvimento Full Stack
+* Java + Spring Boot
 * APIs REST e Microsserviços
-* Java + Spring Framework
 * React & TypeScript
 * Automações com n8n
 * Arquitetura de Software
